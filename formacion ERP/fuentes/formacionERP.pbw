@@ -1,0 +1,8 @@
+Save Format v3.0(19990112)
+@begin Unchecked
+@end;
+@begin Targets
+ 0 "formacion_erp.pbt";
+@end;
+DefaultTarget "formacion_erp.pbt";
+DefaultRemoteTarget "formacion_erp.pbt";
